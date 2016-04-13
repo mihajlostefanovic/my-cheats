@@ -1,3 +1,5 @@
 # my-cheats
+
 Moje "puškice"
-cheats
+
+Ovo je repository u koji stavljam cheats fajlove.
